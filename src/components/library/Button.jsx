@@ -1,9 +1,10 @@
 import React from "react";
-import style from './btn.module.css';
-const Button = ({className,children}) => {
+import { Link } from "react-router-dom";
+import "./btn.css";
+const Button = ({ className, child1 }) => {
   return (
     <>
-      <button className={className+' btn'}>{children}</button>;
+      <button className={className + " btn"}>{child1}</button>
     </>
   );
 };
