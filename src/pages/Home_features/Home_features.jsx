@@ -2,7 +2,7 @@ import React from "react";
 import style from "./home_fetures.module.scss";
 import "../../App.css";
 import { Button } from "../../components/library";
-const Home = () => {
+const Features = () => {
   return (
     <div className={style.home}>
       <div className="container">
@@ -23,4 +23,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default Features;

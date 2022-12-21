@@ -1,6 +1,6 @@
 import React from 'react';
 import './features.css'
-import icon from '../../assets/img/Icon.png'
+import icon from '../../assets/img/Icon2.png'
 
 const Features = () => {
     return (
