@@ -1,0 +1,56 @@
+.team {
+    background: #F4F6FC;
+}
+
+.about_team {
+    padding-top: 128px;
+    padding-bottom: 128px;
+}
+
+.about_team_title {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+    text-align: center;
+    color: #282938;
+}
+
+.about_team_card {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 48px;
+}
+
+.about_team_card_box {
+    text-align: center;
+    width: 296px;
+    background: #FFFFFF;
+    padding-top: 48px;
+    padding-left: 64px;
+    padding-right: 64px;
+    padding-bottom: 34px;
+}
+
+.about_team_card_copy {
+    margin-top: 30px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #1D2130;
+}
+
+.about_team_span {
+    margin-top: 2px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #1D2130;
+}
