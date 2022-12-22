@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container {
+    max-width: 1240px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0 auto;
+}
+.site-project {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.cards {
+    display: flex;
+    gap: 10px;
+}
+.projects-title {
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+    width: 467px;
+    height: 64px;
+    color: #282938;
+    margin-bottom: 60px;
+}
+.second {
+    position: absolute;
+    left: 160px;
+}
+.bid {
+    padding-left: 10px;
+    padding-top: 2px;
+}

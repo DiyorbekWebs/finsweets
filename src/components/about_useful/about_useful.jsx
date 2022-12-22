@@ -1,6 +1,6 @@
 import React from "react";
 import "./../about_useful/about_useful.css";
-import Icon1 from "../../assets/img/Icon.png"
+import Icon1 from "../../assets/img/Icons.png"
 import Icon2 from "../../assets/img/Icon2.png"
 import Icon3 from "../../assets/img/Icon3.png"
 import Ipsum1 from "../../assets/img/ipsum1.png"

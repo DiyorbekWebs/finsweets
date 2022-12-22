@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.site-login {
+    margin-top: 150px;
+}
+.container {
+    max-width: 1240px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0 auto;
+}
+.cardd {
+    background-image: url('../../assets/img/woman-writing-on-paper-3228878.png');
+    background-repeat: no-repeat;
+    width: 656px;
+    height: 691px;
+}
+.cardd-h6 {
+    position: relative;
+    left: 100px;
+    top: 50px;
+    font-weight: 600;
+    font-size: 54px;
+    line-height: 74px;
+    color: floralwhite;
+    width: 464px;
+    height: 225px;
+
+}
+.login {
+    display: flex;
+}
+.cardd-p {
+    position: relative;
+    top: 80px;
+    left: 100px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    width: 464px;
+    height: 85px;
+    color: #FFFFFF;
+}
+.form {
+    width: 624px;
+    height: 691px;
+    background: #1C1E53;
+}
+.box {
+    margin-top: 70px;
+    margin-left: 50px;
+}
+.box-send {
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 48px;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+.box-lorem {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #F4F6FC;
+    margin-bottom: 50px;
+}
+.text-form {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.text-form input {
+    width: 432px;
+    height: 64px;
+    border-radius: 8px;
+    background-color: transparent;
+    border: none;
+    border: 2px solid rgba(255, 255, 255, 0.05);
+    padding-left: 15px;
+    font-size: 18px;
+    color: white;
+}
+.btn-form {
+    width: 432px;
+    height: 64px;
+    background: #FCD980;
+    border-radius: 41px;
+    border: none;
+    margin-top: 20px;
+    font-size: 18px;
+}
+.imo {
+    width: 200px;
+    margin-left:100px;
+}
